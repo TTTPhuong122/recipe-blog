@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Karla:wght@400;700&family=Montserrat:wght@400;700&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*,
+*::after,
+*::before {
+  margin: 0;
+  margin-left: 0;
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-size: 6.5vw;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3 {
+  font-size: 1.3rem;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
 }
-
-.App-link {
-  color: #61dafb;
+h4 {
+  font-size: 1.1rem;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h6 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #6caa7f;
+}
+p {
+  font-size: 1rem;
+  font-family: 'Karle', sans-serif;
+  line-height: 1.5rem;
+}
+button {
+  background: #6caa7f;
+  border-style: none;
+  padding: 0.7rem 1.3rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #fff;
+}
+hr {
+  background: #27ee60;
+  color: #27ee60;
+  height: 0.07rem;
+  height: 3px;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+footer{
+  background: #6caa7f;
 }
