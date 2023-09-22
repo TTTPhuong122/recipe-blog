@@ -1,3 +1,5 @@
+## Deploy: https://rest-api-recipe-blog-s8ws.vercel.app/
+
 ## Cách setup một dự án theo flow các video của mình
 
 ### Chuẩn bị
@@ -201,6 +203,6 @@ export default http
 
 ## chuyển file hjson -> json :
 
-````bash
+```bash
 hjson -j db.hjson > db.json
-````
+```
