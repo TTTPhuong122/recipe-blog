@@ -3,7 +3,7 @@ class Http {
   instance: AxiosInstance
   constructor() {
     this.instance = axios.create({
-      baseURL: 'http://localhost:4000/',
+      baseURL: 'https://rest-api-recipe-blog.vercel.app/',
       timeout: 10000
     })
   }
