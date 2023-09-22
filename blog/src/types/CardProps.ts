@@ -1,5 +1,5 @@
 export default interface CardProps {
   title: string
-  content: string
+  description: string
   image: string
 }

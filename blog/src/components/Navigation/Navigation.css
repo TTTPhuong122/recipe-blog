@@ -1,18 +1,26 @@
-.nav-link::after{
-    content: "";
-    display: block;
-    width: 0;
-    height: 2px;
+.nav-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
 }
-.nav-link:hover::after{
-    width: 60%;
-    background: #2eec71;
-    transition: width 0.3s;
-    border-bottom: 2px solid #2eec60;
+.nav-link:hover::after {
+  width: 60%;
+  background: #2eec71;
+  transition: width 0.3s;
+  border-bottom: 2px solid #2eec60;
 }
 
-.nav-link{
-    font-size: 1.2rem;
-    color: #7aca8d;
-    cursor: pointer;
+.nav-link {
+  font-size: 1.2rem;
+  color: #7aca8d;
+  cursor: pointer;
+}
+
+.top-nav {
+  z-index: 2;
+  background: #7aca8d;
+}
+.top-nav a {
+  color: white;
 }

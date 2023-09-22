@@ -1,7 +1,9 @@
 {
-  "recipes": [
+  "mainfood": [
     {
+      "id": "190920231",
       "name": "BÒ BA CHỈ CUỘN NẤM KIM CHÂM NƯỚNG",
+      "description": "Những cuộn thịt bò nấm kim châm dai mềm, đậm đà được nướng hoặc áp chảo thơm phức luôn là một trong những món bán chạy nhất trong các nhà hàng. Nhưng bạn không cần phải cất công đến nhà hàng nữa mà ngay tại nhà bạn vẫn có thể làm được món này với công thức siêu dễ, siêu nhanh.",
       "image": "https://cdn.blognauanngon.com/8/posts/3405/thumbnail.jpg",
       "ingredients": "  100g nấm kim châm\n  138g thịt bò Mỹ ba chỉ\n  4 củ hành tím băm\n  Hành lá\n  Gia vị: Nước tương, đường, hạt nêm, dầu hào, tiêu đen xay",
       "introduction": [
@@ -27,7 +29,9 @@
       }
     },
     {
-      "name": "BÒ CUỘN NẤM KIM CHÂM NƯỚNG SỐT MÈ",
+      "id": "1",
+      "name": "BÒ CUỘN NẤM KIM CHÂM NƯỚNG SỐT",
+      "description": "Những cuộn thịt bò nấm kim châm dai mềm, đậm đà được nướng hoặc áp chảo thơm phức luôn là một trong những món bán chạy nhất trong các nhà hàng. Nhưng bạn không cần phải cất công đến nhà hàng nữa mà ngay tại nhà bạn vẫn có thể làm được món này với công thức siêu dễ, siêu nhanh.",
       "image": "https://cdn.blognauanngon.com/8/posts/3405/thumbnail.jpg",
       "ingredients": "  200g nấm kim châm\n  300g thịt bò\n  Hành lá\n  20g hành tây\n  10g gừng\n  5g ớt\n  Mè rang\n  Gia vị: Nước tương, muối, sốt ướp thịt nướng, tương cà, mật ong, dầu hào",
       "introduction": [
@@ -50,6 +54,360 @@
       "result": {
         "description": "Những cuộn thịt nướng được áo đều nước sốt mè bắt mắt, hương vị đậm đà, cay cay, beo béo của sốt mè, vị ngọt dai của thịt và nấm khiến ai nấy đều mê mẩn.\n\nChỉ với vài bước là bạn đã có ngay món bò cuộn nấm kim châm ngon như nhà hàng rồi, mau lưu lại công thức để có dịp làm cho cả nhà thưởng thức nhé.",
         "image": "https://cdn.blognauanngon.com/8/posts/3405/7.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Món gà nướng đất sét",
+      "description": "Món gà nướng đất sét với lớp da gà vàng ươm chắc chắn sẽ hớp hồn bạn ngay từ lần đầu tiên nếm thử. Bên cạnh đó, thịt gà mềm chắc còn cung cấp lượng protein cực dồi dào cho cơ thể. Chỉ cần làm theo các bước sau bạn sẽ có món ăn độc đáo mà thơm ngon này. Cùng theo dõi ngay bài viết dưới đây nha!",
+      "image": "https://cdn.blognauanngon.com/8/posts/5014/thumbnail.jpg",
+      "ingredients": "  1 con gà ta\n  4-5 cây sả\n  3-4 củ gừng\n  6-7 lá chanh\n  3 củ hành tím\n  3-4 lá chuối\n  Đất sét\n  Gia vị: Ớt bột, bột điều, muối, hạt nêm",
+      "introduction": [
+        {
+          "step": "Bước 1: Sơ chế gà ta",
+          "description": "Gà đã mua về bạn làm sạch lông, dùng muối chà sát từ trong ra ngoài gà rồi để nguyên con.",
+          "image": "https://cdn.blognauanngon.com/8/posts/5014/2.jpg"
+        },
+        {
+          "step": "Bước 2: Sơ chế nguyên liệu",
+          "description": "Sả đập dập, thái khúc khoảng 3-4 cm. Gừng rửa sạch, giã nát. Hành tím băm nhỏ. Lá chanh rửa sạch, cắt nhỏ.",
+          "image": "https://cdn.blognauanngon.com/8/posts/5014/3.jpg"
+        },
+        {
+          "step": "Bước 3: Ướp gà",
+          "description": "Bạn cho sả, lá chanh, 1 muỗng muối, 1 muỗng hạt nêm, 1 muỗng ớt bột, 1 muỗng bột điều vào chén rồi trộn đều.\n\nSau đó tiến hành nhét phần hỗn hợp vừa trộn vào trong gà rồi chà xát 2 muỗng muối, 2 muỗng bột điều lên phần da gà.",
+          "image": "https://cdn.blognauanngon.com/8/posts/5014/4.jpg"
+        },
+        {
+          "step": "Bước 4: Bọc gà",
+          "description": "Đầu tiên bạn bọc kín gà bằng 3-4 lớp lá chuối cho thật kín rồi đến 2 lớp giấy bạc phía bên ngoài.\n\nTiếp theo bạn đắp 1 lớp đất sét không quá dày cũng không quá mỏng và cuối cùng là 1 chiếc lá chuối to bên ngoài là xong.",
+          "image": "https://cdn.blognauanngon.com/8/posts/5014/5.jpg"
+        },
+        {
+          "step": "Bước 5: Nướng gà",
+          "description": "Bạn đốt than lên cho cháy rồi bỏ gà đã bọc vô giữa. Bạn thêm củi, mùn cưa để nướng gà chín nhanh hơn.\n\nTrong quá trình nướng thỉnh thoảng bạn nên lật gà và nướng trong vòng 1-2 tiếng để thịt bên trong được chín đều nhé.",
+          "image": "https://cdn.blognauanngon.com/8/posts/5014/6.jpg"
+        }
+      ],
+      "result": {
+        "description": "Gà nướng đất sét với lớp da vàng ươm nhìn cực kỳ bắt mắt và hấp dẫn. Thịt gà nướng mềm, thơm ăn kèm với muối tiêu chanh thêm chút ớt tươi thì đúng là một món ăn tuyệt vời khiến bao người thèm thuồng.",
+        "image": "https://cdn.blognauanngon.com/8/posts/5014/7.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Hàu xào sả ớt ngon và đậm đà",
+      "description": "Hiện nay, hàu là một trong các loại hải sản được khá nhiều người yêu thích bởi giá thành không quá mắc cũng như dễ dàng biến tấu thành các món ngon hấp dẫn. Vì thế, chúng ngày càng được chị em nội trợ tin tưởng dùng cho thực đơn của gia đình.\n\nVà hôm nay, bạn hãy cùng Thu Hà khám phá ngay cách làm hàu xào sả ớt cay ngon đậm đà để đổi gió cho mâm cơm nhé.",
+      "image": "https://cdn.blognauanngon.com/8/posts/4980/thumbnail.jpg",
+      "ingredients": "  500g thịt hàu sữa làm sẵn\n  Gừng, sả, tỏi, ớt, nước đá lạnh\n  Gia vị: Nước mắm, tiêu, muối.\n  Dụng cụ: Muỗng, chảo, nồi.",
+      "introduction": [
+        {
+          "step": "Bước 1: Sơ chế nguyên liệu",
+          "description": "Đầu tiên, bạn đem tỏi (10g) băm nhỏ, ớt (1 trái) cắt nhỏ, còn gừng (10g) và sả (3 4 cây) thì cắt thành lát mỏng nhé. Sau đó, bạn rửa hàu bằng nước muối loãng tầm 10 phút, rồi rửa sạch lại với nước lần nữa và để ráo.\n\nXong thì bạn bắc nồi nước lên bếp, cho gừng cắt lát vào, đập nắp lại và nấu ở lửa lớn. Đến khi nước sôi, bạn hãy cho ngay hàu vào luộc. Khi thấy nước sôi lại lần nữa thì bạn tắt bếp và vớt hàu ra ngâm vào nước đá lạnh. Việc này sẽ giúp hàu săn chắc và dai giòn hơn đấy.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4980/2.jpg"
+        },
+        {
+          "step": "Bước 2: Ướp hàu",
+          "description": "Bạn chỉ cần trộn đều hàu cùng 12 muỗng cà phê nước mắm và 1/3 muỗng cà phê tiêu, để yên và ướp tầm 30 phút cho thấm vị. Nếu bạn không ăn mặn thì có thể không nêm nước mắm vào nhé.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4980/3.jpg"
+        },
+        {
+          "step": "Bước 3: Xào hàu với sả ớt",
+          "description": "Bạn bắc chảo dầu lên bếp, rồi lần lượt cho tỏi băm và sả cắt lát vào phi vàng thơm. Sau đó, bạn cho ớt cắt lát và hàu đã ướp vào, xào nhanh tay ở lửa lớn tới khi hàu khô, chín săn lại là xong rồi nè.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4980/4.jpg"
+        }
+      ],
+      "result": {
+        "description": "Món ăn sau khi hoàn thành có mùi thơm cực kỳ hấp dẫn luôn. Khi thưởng thức, bạn sẽ cảm nhận được từng miếng thịt hàu mềm thơm, dai ngọt hòa quyện cùng vị cay nồng từ sả, ớt. Phải nói là kích thích vị giác vô cùng.\n\nHy vọng qua chia sẻ trên, bạn đã biết cách làm hàu xào sả ớt rồi nhé. Vậy thì bạn còn chần chờ gì mà không lưu lại công thức và trổ tài làm ngay cho gia đình thưởng thức thôi nào.",
+        "image": "https://cdn.blognauanngon.com/8/posts/4980/5.jpg"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Trứng cút rim bơ tỏi",
+      "description": "Trứng cút rim bơ tỏi không còn là món ăn xa lạ bởi đây là món ăn đường phố được nhiều bạn trẻ yêu thích. Trứng cút rim bơ tỏi có vị bùi bùi, béo thơm của bơ sẽ khiến bạn không ngừng mê mẩn. Hãy cùng vào bếp với Thu Hà làm món trứng cút rim bơ tỏi thơm ngon này nhé.",
+      "image": "https://cdn.blognauanngon.com/8/posts/4895/thumbnail.jpg",
+      "ingredients": "  25 quả trứng cút\n  2 muỗng canh bơ\n  10g tỏi băm\n  Gia vị: Dầu ăn, nước mắm, đường, tương ớt, tương cà,…",
+      "introduction": [
+        {
+          "step": "Bước 1: Luộc và bóc vỏ trứng",
+          "description": "Bạn chuẩn bị 1 cái nồi đổ vào khoảng 3 lít nước rồi đun sôi lên. Sau khi nước sôi, bạn cho hết trứng cút vào nồi và luộc đến khi trứng nổi lên trên bề mặt nồi thì tắt bếp.\n\nVớt trứng cút ra cho vào tô nước lạnh rồi tiến hành bóc vỏ trứng rồi cho vào 1 cái tô.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4895/2.jpg"
+        },
+        {
+          "step": "Bước 2: Chiên trứng cút",
+          "description": "Bạn bắc một cái chảo, thêm vào đó 3 muỗng canh dầu ăn rồi đun sôi dầu. Khi dầu đã sôi, bạn cho hết trứng đã lột vào rồi chiên.\n\nSau đó, bạn đảo đều tay để trứng được vàng đều. Bạn chiên đến khi nào trứng có màu vàng đẹp mắt thì tắt bếp.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4895/3.jpg"
+        },
+        {
+          "step": "Bước 3: Làm nước sốt và rim trứng",
+          "description": "Đầu tiên, bạn bắc một cái chảo thêm vào đó 2 muỗng canh bơ và để ở lửa vừa.\n\nSau khi bơ tan hết thì bạn cho vào đó 10g tỏi băm, 30ml nước mắm, 30ml nước lọc, 30g đường, 20g tương ớt, 20g tương cà rồi khuấy đều cho tan gia vị và nấu trong 3 phút.\n\nSau khi hỗn hợp sôi lên, bạn cho trứng cút đã chiên vào và đảo đều cho trứng được thấm gia vị. Bạn rim trứng với hỗn hợp trong 5 phút rồi tắt bếp, cho trứng ra dĩa.",
+          "image": "https://cdn.blognauanngon.com/8/posts/4895/4.jpg"
+        }
+      ],
+      "result": {
+        "description": "Như vậy trứng cút rim bơ tỏi như vậy là hoàn thành. Trứng cút khi ăn có vị bùi đặc trưng, nước sốt bơ beo béo hòa quyện cùng 1 chút mặn ngọt làm không thể cưỡng lại được.\n\nHy vọng qua chia sẻ trên, bạn đã biết cách làm hàu xào sả ớt rồi nhé. Vậy thì bạn còn chần chờ gì mà không lưu lại công thức và trổ tài làm ngay cho gia đình thưởng thức thôi nào.",
+        "image": "https://cdn.blognauanngon.com/8/posts/4895/5.jpg"
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "5",
+      "name": "CARAMEN THẬP CẨM",
+      "description": "Bánh caremen hay thường gọi là bánh flan là một món tráng miệng vô cùng quen thuộc với mọi người.",
+      "image": "https://cdn.blognauanngon.com/8/posts/1811/thumbnail.jpg",
+      "ingredients": "500ml sữa tươi có đường\n150ml sữa đặc\n5 quả trứng gà\n1 thìa cà phê nước cốt chanh\n2 muỗng nước cốt lá dứa\n1 lon nước cốt dừa\n5g vani\n5ml siro dâu\n15g bột rau câu dẻo\n3g bột rau câu giòn\n100g bột sắn dây\n1 gói bột milo\n130g đường cát trắng\n200g bột nếp\n50g bột năng\n50g bột cacao\n15g màu thực phẩm mỗi loại\n1 quả lê\n5g hoa đậu biếc\nMít\n1 thìa cà phê hạt é\n8 khuôn làm bánh caramen",
+      "introduction": [
+        {
+          "step": "Bước 1: Làm caramen",
+          "description": "Để làm đường caramen, bạn đặt một nồi lên bếp và cho 80g đường đã chuẩn bị sẵn vào, sau đó cho nước vào ngang với mặt đường (tỉ lệ 1:1). Để lửa vừa và đun đến khi đường chuyển sang màu cánh gián thì tắt bếp. Sau đó khuấy đều và nhanh tay đổ lớp caramen còn nóng vào các khuôn, hộp hoặc cốc đã chuẩn bị sẵn.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/2.jpg"
+        },
+        {
+          "step": "Bước 2: Làm bánh flan",
+          "description": "Sử dụng 5 lòng đỏ và 3 lòng trắng trứng, đập vào tô sau đó đánh cho tan ra.\n\nCho 500ml sữa tươi đã chuẩn bị vào nồi, sau đó cho thêm 100ml sữa đặc vào. Đun tới khi sữa ấm lên. Lưu ý không đun sôi mà chỉ đun đến khi sữa vừa ấm lên. Sau đó cho từ từ hỗn hợp sữa vào trứng, không cho quá nhanh vì sữa nóng quá sẽ làm chín trứng.\n\nHỗn hợp trứng sữa sau khi khuấy đều thì lọc qua rây nhiều lần để hỗn hợp bánh được mịn nhất.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/3.jpg"
+        },
+        {
+          "step": "Bước 3: Hấp bánh flan",
+          "description": "Cho hỗn hợp trứng sữa vào các khuôn ban đầu sau đó đậy nắp khuôn lại để bắt đầu hấp bánh.\n\nTrải một lớp khăn vào xửng hấp, đảm bảo lớp khăn có thể thoát hơi nước lên làm chính bán rồi xếp bánh vào.\n\nĐun nồi nước, khi nước bắt đầu xôi thì đặt xửng bánh lên, lưu ý là để lửa nhỏ, đậy nắp lại và kiểm tra sau 30 phút. Sau khi bánh chín thì tắt bếp và lấy bánh ra để nguội và cho vào ngăn mát tủ lạnh để 2-3 tiếng.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/4.jpg"
+        },
+        {
+          "step": "Bước 4: Làm thạch lê",
+          "description": "Đầu tiên gọt vỏ lê rồi thái hạt lựu. Tiếp theo, cho lê vào các bát nước màu và ngâm trong vòng 1 tiếng để hạt lựu ngấm màu.\n\nSau khi lê đã ngấm màu thì cho 3 muỗng cà phê bột năng vào mỗi phần rồi trộn đều rồi nấu nước sôi để luộc phần thạch lê cho đến khi thấy lớp vỏ bên ngoài trong suốt là đã chín.\n\nTiếp theo, bạn vớt thạch ra trần sơ qua nước lạnh rồi để ráo. Sau đó cho 1 muỗng canh đường vào mỗi phần rồi trộn đều.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/5.jpg"
+        },
+        {
+          "step": "Bước 5: Làm thạch rau câu",
+          "description": "Đầu tiền cho vào nồi 500ml nước. Tiếp theo, cho vào 5g bột rau câu dẻo, vừa cho vừa khuấy đều để phần bột rau câu không bị vón cục.\n\nSau khi hỗn hợp sôi thì cho vào thêm 150g đường, tiếp tục đun và khuấy đều cho đường tan ra và tắt bếp.\n\nCuối cùng, cho hỗn hợp rau câu ra 2 khuôn, 1 khuôn pha vào 1 muỗng canh sữa đặc, khuôn còn lại pha vào 2 muỗng canh nước cốt là dứa. Sau đó, khuấy đều rồi để rau câu đông đặc.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/6.jpg"
+        },
+        {
+          "step": "Bước 6: Làm trân châu và hạt é",
+          "description": "Cách làm trân châu:\n\nĐầu tiên cho vào tô 200g bột nếp, 50g bột cacao, 50g bột năng và trộn đều. Tiếp theo cho từ từ một ít nước nhiệt độ ấm vào tô bột rồi dùng tay nhồi nhẹ nhàng đến khi bột dẻo mịn.\nCắt bột thành từng viên nhỏ vừa ăn rồi lăn qua một lớp bột năng để trân châu không bị dính khi luộc.\nLuộc trân châu khoảng 10 – 15 phút đến khi trân châu nổi lên thì tắt bếp, tiếp tục đậy nắp ủ thêm khoảng 5 – 7 phút. Sau đó trần chân châu qua nước lạnh là hoàn thành.\nCách làm hạt é:\n\nCho vào chén 1 muỗng canh hạt é, 50ml nước và ngâm đến khi hạt é nở.\nSau đó, cho vào chén hạt é 5ml siro dâu rồi trộn đều.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/7.jpg"
+        },
+        {
+          "step": "Bước 7: Hoàn thành",
+          "description": "Sau khi đã xong tất cả các bước, bạn cắt thạch lá dứa và thạch sữa ra thành từng khúc vừa ăn, mít tươi cắt thành sợi nhỏ.\n\nCho bánh flan ra dĩa sau đó thêm nước cốt dừa, thạch lá dứa, thạch sữa, thạch lê, trân châu đen, trân châu đậu biếc, mít hạt é là hoàn tất.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1811/9.jpg"
+        }
+      ],
+      "result": {
+        "description": "Với vài bước đơn giản, bạn đã có thể tự làm món caramen thập cẩm thơm ngon, hấp dẫn tại nhà. Món ăn có vị béo ngọt đan xen từ bánh flan và nước cốt dừa, cùng vị giòn dai của thạch và trân châu quả là vô cùng lý tưởng để cùng thưởng thức với gia đình.",
+        "image": "https://cdn.blognauanngon.com/8/posts/1811/10.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "name": "BÁNH MOCHI KEM SẦU RIÊNG",
+      "description": "Bánh mochi vốn được yêu thích bởi màu sắc đáng yêu, ngoại hình núng nính đầy nhân xinh xắn. Nay lại kết hợp thêm nhân kem sầu riêng mát lạnh vừa ngọt vừa bùi. Công thức thực hiện lại đơn giản, ai cũng có thể làm được.",
+      "image": "https://cdn.blognauanngon.com/8/posts/676/thumbnail.jpg",
+      "ingredients": "300g sầu riêng\n200ml kem tươi\n150g đường\n120g bột nếp\n40g bột năng\n60g bột bắp\n1g muối\n380ml sữa tươi\n15g dầu ăn\nDụng cụ: Tô, đánh trứng, phới trộn, lò nướng, màng bọc thực phẩm,…",
+      "introduction": [
+        {
+          "step": "Bước 1: Làm nhân bánh",
+          "description": "Sầu riêng bạn lấy hạt, tách thịt sầu riêng. Sau đó cắt nhỏ và tán nhuyễn sầu riêng, thêm vào 20g đường sau đó trộn đều và cho lên bếp xào nhân trong 5 – 6 phút. Dùng màng bọc thực phẩm phủ lên trên, bọc phần nhân lại và cho vào tủ lạnh cho tới khi cần dùng.",
+          "image": "https://cdn.blognauanngon.com/8/posts/676/2.jpg"
+        },
+        {
+          "step": "Bước 2: Làm vỏ bánh mochi",
+          "description": "Cho 120g bột nếp, 40g bột năng, 30g bột bắp, 1g muối, 120g đường và 380ml sữa tươi vào tô lớn sau đó khuấy đều, cho bột nghỉ 30 phút.\n\nCho vào ít dầu ăn, khuấy đều, cho hỗn hợp qua rây để hỗn hợp mịn. Cho thêm khoảng 4 giọt màu thực phẩm. Cho vào 1 miếng lá dứa. Đậy hỗn hợp bằng màng bọc thực phẩm và cho vào lò vi sóng 2 lần mỗi lần 2 phút. Sau đó lấy bột ra và trộn đều để bột dẻo hơn.\n\nTrải lên phía trên bột một lớp màng bọc thực phẩm và tiến hành cán, nhồi bột trong 5 phút. Cho vào ngăn đá trong 45 phút.",
+          "image": "https://cdn.blognauanngon.com/8/posts/676/3.jpg"
+        },
+        {
+          "step": "Bước 3: Rang bột bắp",
+          "description": "Cho vào nồi khoảng 200g bột bắp và bật bếp, rang trên lửa vừa. Đảo đều tay trong khoảng từ 4 – 5 phút là có thể nhấc xuống, để nguội. Đây là phần bột dùng để áo bên ngoài vỏ bánh.",
+          "image": "https://cdn.blognauanngon.com/8/posts/676/4.jpg"
+        },
+        {
+          "step": "Bước 4: Đánh kem tươi",
+          "description": "Cho vào tô 200ml kem tươi và 15g đường, chuẩn bị 1 thau đá rồi cho tô chứa hỗn hợp vào trong, sau đó dùng máy đánh trứng và đánh ở tốc độ cao, tránh đánh lâu khiến hỗn hợp dễ bị tách bơ.",
+          "image": "https://cdn.blognauanngon.com/8/posts/676/5.jpg"
+        },
+        {
+          "step": "Bước 5: Tạo hình bánh mochi kem sầu riêng",
+          "description": "Phủ bột lên mặt phẳng và cho bột vỏ bánh lên. Dùng dao cắt bột thành từng khối vuông, sau đó phủ lên trên màng bọc thực phẩm để chống dính và cán mỏng. Cắt đi những phần thừa để vỏ bánh có hình vuông.\n\nCho kem tươi và sầu riêng lên trên vỏ bánh với tỉ lệ tùy theo khẩu vị của bạn rồi tiến hành gói bánh, nối các mép dính lại với nhau. Cho vào tủ lạnh trong 2 tiếng là có thể thưởng thức.",
+          "image": "https://cdn.blognauanngon.com/8/posts/676/6.jpg"
+        }
+      ],
+      "result": {
+        "description": "Bánh mochi kem sầu riêng sở hữu dáng vuông, núng nính. Khi cắn vào cảm nhận ngay được vỏ bánh dẻo mềm, mỏng cùng với nhân kem sầu riêng ngọt bùi, thơm ngon, ăn mãi không ngán.\n\nTrên đây là cách làm bánh mochi kem sầu riêng béo ngậy mà Thu Hà muốn gửi đến bạn. Mong rằng qua bài viết này, bạn có thể tự làm những chiếc bánh mochi xinh xắn, ngon miệng. Chúc các bạn thành công!",
+        "image": "https://cdn.blognauanngon.com/8/posts/676/8.jpg"
+      }
+    },
+    {
+      "id": "7",
+      "name": "BÁNH KEM DƯA LƯỚI",
+      "description": "",
+      "image": "https://cdn.blognauanngon.com/8/posts/2619/thumbnail.jpg",
+      "ingredients": "1 lòng đỏ trứng\n35g đường\n185g sữa nóng\n2g tinh dầu vani\n10g lá gelatin\n185 whipped cream (kem đã đánh bông)\nBánh bông lan 12cm\nDưa lưới ruột xanh, dưa lưới ruột trắng",
+      "introduction": [
+        {
+          "step": "Bước 1: Sơ chế nguyên liệu",
+          "description": "Dưa lưới cắt đôi, bỏ hạt, lấy muỗng múc kem múc dưa lưới thành viên tròn nhỏ, cho ra dĩa.\nCho 225g dưa lưới ruột trắng cắt nhỏ vào máy xay sinh tố xay nhuyễn.\nCho dưa gang trắng vào máy xay sinh tố xay vừa nát, không mịn ra.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2619/1.jpg"
+        },
+        {
+          "step": "Bước 2: Làm bánh kem dưa lưới",
+          "description": "Cho 1 lòng đỏ trứng vào tô, đánh đều rồi thêm 35g đường, 2g tinh dầu vani, khuấy đều cho hỗn hợp tan rồi đổ 185g sữa nóng vào và trộn đều.\nĐun nóng hỗn hợp sữa trứng rồi tắt bếp. Cho 10g lá gelatin vào, trộn đều.\n\nCho hỗn hợp sữa trứng vừa trộn ra tô, đổ 225g dưa lưới đã xay nhuyễn vào, trộn đều. Tiếp tục cho 185g kem tươi đánh bông (whipped cream), khuấy đều cho hỗn hợp hòa quyện vào nhau.\n\nLàm bánh bông lan với khuôn bánh 12cm. Đặt bánh bông lan có kích thước 12cm vào khuôn nhôm 15cm (tham khảo cách làm bánh bông lan bằng bột làm bánh bông lan).\nĐổ từ từ hỗn hợp kem dưa lưới lên trên. Chỉ đổ khoảng nửa khuôn. Để vào tủ lạnh khoảng 1 tiếng cho bánh cứng lại.\n\nLấy bánh trong tủ lạnh ra, cho dưa lưới đã cắt nhỏ trải đều lên trên mặt bánh (ảnh 10), đổ phần kem dưa lưới lên trên sao cho phần kem đủ ngập dưa lưới.\n\nTiếp tục bỏ bánh vào tủ lạnh khoảng 2 tiếng.\nCho 1 giọt màu thực phẩm màu xanh lá vào phần kem dưa lưới còn lại, khuấy đều rồi đổ lên mặt bánh kem. Bỏ bánh vào tủ lạnh trong 4-5 tiếng.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2619/3.jpg"
+        },
+        {
+          "step": "Bước 3: Trang trí",
+          "description": "Lấy bánh ra khỏi khuôn, xếp các hình tròn dưa lưới đã chuẩn bị sẵn lên, có thể trang trí thêm lá bạc hà cho bánh thêm đẹp nhé.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2619/7.jpg"
+        }
+      ],
+      "result": {
+        "description": "Khi cắt ra, phần dưa lưới xắt nhỏ giòn giòn cùng lớp kem béo ngậy tạo nên hương vị độc đáo cho món bánh.",
+        "image": "https://cdn.blognauanngon.com/8/posts/2619/9.jpg"
+      }
+    }
+  ],
+  "breakfast": [
+    {
+      "id": "8",
+      "name": "MIẾN TRỘN THỊT BÒ NẤM ĐÔNG CÔ",
+      "description": "Miến trộn thịt bò nấm đông cô hấp dẫn nhiều người bởi hương vị thơm ngon, đậm đà và sự bổ dưỡng mà món ăn này mang đến. Cùng Thu Hà khám phá cách chế biến miến trộn thịt bò nấm đông cô đầy dinh dưỡng cho bữa sáng nhé!",
+      "image": "https://cdn.blognauanngon.com/8/posts/2040/thumbnail.jpg",
+      "ingredients": "250g thịt bò\n500g miến dong\n15g nấm đông cô (khô)\n100g cải thìa\n100g nấm bạch tuyết (nấm hải sản)\n1 trái ớt chuông vàng\n1 củ hành tây\n2 củ hành tím\n1 trái ớt sừng\n20g tỏi\n2 muỗng canh mè trắng\n20g ngò rí\nGia vị: Dầu mè, nước tương, tiêu xay, muối, hạt nêm, đường, dầu ăn",
+      "introduction": [
+        {
+          "step": "Bước 1: Sơ chế thịt bò",
+          "description": "Thịt bò sau khi mua về bạn cho vào thau, rửa cùng với nước pha 1 muỗng cà phê muối để thịt bò được sạch hơn. Tiếp theo bạn cắt thịt bò thành nhiều lát mỏng rồi cho vào tô. Bạn nên cắt theo thớ ngang để tránh thịt bò bị dai khi chế biến nhé.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/2.jpg"
+        },
+        {
+          "step": "Bước 2: Sơ chế các nguyên liệu khác",
+          "description": "Nấm đông cô bạn cho ra chén, đổ nước ấm vào ngâm đến khi nấm nở hẳn thì vớt nấm ra, rửa với nước sạch, vắt cho thật ráo. Sau đó, bạn cắt nấm thành từng miếng mỏng vừa ăn. Nếu mua nấm tươi thì bạn không cần ngâm nha.\nVới nấm bạch tuyết, bạn cắt bỏ phần gốc, ngâm với nước muối pha loãng. Cải thìa bạn cắt gốc và lá để riêng, loại bỏ phần lá hư rồi ngâm chung phần gốc, lá và thân với nấm bạch tuyết khoảng 10 phút. Kế đó, bạn xả sạch chúng với nước. Phần thân cải thìa bạn có thể cắt làm đôi hoặc làm ba nếu quá to nhé.\nHành tím, hành tây, tỏi bóc vỏ, sau khi rửa sạch, hành tím bạn bào mỏng dọc theo chiều dài của củ, hành tây cắt múi cau nhỏ, còn tỏi bạn băm nhỏ.\n\nỚt chuông sau khi rửa sạch, bạn bỏ cuống, cắt thành sợi mỏng. Ớt sừng rửa sạch, loại bỏ hạt, cắt sợi thật mỏng. Ngò rí rửa sạch, cắt nhỏ.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/3.jpg"
+        },
+        {
+          "step": "Bước 3: Ướp thịt bò",
+          "description": "Bạn cho vào tô thịt bò 12 muỗng cà phê hạt nêm, 1 muỗng cà phê đường, 12 muỗng cà phê tiêu, 1 muỗng cà phê dầu mè, 1 muỗng cà phê tỏi băm.\n\nTiếp theo bạn trộn đều tất cả lên. Bạn ướp bò tầm 10 phút để bò được thấm đều gia vị.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/6.jpg"
+        },
+        {
+          "step": "Bước 4: Luộc sơ cải thìa và ớt chuông",
+          "description": "Bạn chuẩn bị nồi, đổ nước ngập 13 nồi, sau đó cho 1 trái ớt chuông và 100g cải thìa đã sơ chế vào luộc khoảng 1 phút ở lửa vừa.\n\nTiếp đến, bạn cho cải thìa và ớt chuông vừa luộc vào thau nước lạnh, ngâm tầm 2 – 3 phút để giúp chúng giòn hơn, rồi vớt ra, để ráo.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/7.jpg"
+        },
+        {
+          "step": "Bước 5: Chần miến",
+          "description": "Sau khi chần sơ, bạn cho miến vào thau nước lạnh ngâm từ 2 – 3 phút, việc này giúp miến dai hơn, ăn ngon hơn. Bạn cũng có thể cho miến vào chung thau nước lạnh ngâm cải thìa và ớt chuông nha.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/8.jpg"
+        },
+        {
+          "step": "Bước 6: Rang mè và phi hành tím",
+          "description": "Tiếp theo, bạn cho vào chảo đã dùng rang mè 2 muỗng canh dầu ăn, 2 củ hành tím đã sơ chế rồi phi thơm ở lửa vừa. Đến khi hành tím dậy mùi, bạn cho hành qua rây để lọc bỏ dầu rồi để qua một bên.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/9.jpg"
+        },
+        {
+          "step": "Bước 7: Xào sơ hành tây, nấm bạch tuyết, ớt sừng, nấm đông cô, ớt chuông và cải thìa",
+          "description": "Bạn cho vào chảo 1 muỗng canh dầu ăn, hành tây đã sơ chế vào xào trước tầm 1 phút. Kế đó, bạn thêm vào chảo 100g nấm bạch tuyết, ớt sừng, 12 muỗng cà phê hạt nêm rồi đảo đều.\nĐến khi nấm bạch tuyết hơi chín, bạn cho vào chảo 15g nấm đông cô, 100g cải thìa, ớt chuông xào chung. Khi tất cả đã chín bạn cho chúng ra dĩa.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/10.jpg"
+        },
+        {
+          "step": "Bước 8: Xào thịt bò",
+          "description": "Bạn chuẩn bị chảo, cho vào 1 muỗng canh dầu ăn, phần tỏi băm còn lại vào đảo đều. Khi tỏi dậy mùi, bạn cho thịt bò vào xào. Khi thịt bò gần chín, bạn cho 12 muỗng cà phê tiêu vào. Đến lúc thịt bò chín hoàn toàn thì bạn tắt bếp, múc thịt ra dĩa.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/11.jpg"
+        },
+        {
+          "step": "Bước 9: Hoàn thành món miến trộn thịt bò nấm đông cô",
+          "description": "Bạn cho miến ra thau lớn, cho vào thau 4 muỗng canh nước tương, 2 muỗng canh dầu mè rồi trộn đều lên. Tiếp theo, bạn thêm cải thìa, ớt chuông, nấm bạch tuyết, ớt sừng, nấm đông cô, hành tây cùng thịt bò vừa xào vào thau, trộn đều tất cả lên.\nKế đó, bạn rắc mè rang vào thau, trộn đều thêm lần nữa. Sau cùng, bạn bày miến trộn ra dĩa, rắc ngò rí và mè lên trên, có thể dùng gốc cải thìa để trang trí xung quanh nha. Vậy là bạn đã hoàn thành món miến trộn thịt bò nấm đông cô rồi đấy.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2040/12.jpg"
+        }
+      ],
+      "result": {
+        "description": "Món miến trộn thịt bò nấm đông cô sẽ mang đến vị mềm thơm, thấm vị của thịt bò, vị dai dai của miến cùng vị giòn giòn của rau củ. Còn chờ gì nữa mà không vào bếp thực hiện ngay món ngon này bạn nhỉ.\n\nTrên đây là cách làm món miến trộn thịt bò nấm đông cô dinh dưỡng cho bữa sáng mà Thu Hà đã tổng hợp được. Hy vọng những thông tin này hữu ích với bạn. Chúc bạn thành công!",
+        "image": "https://cdn.blognauanngon.com/8/posts/2040/13.jpg"
+      }
+    },
+    {
+      "id": "9",
+      "name": "SANDWICH PHÔ MAI BƠ TỎI CHIÊN GIÒN",
+      "description": "Sandwich luôn là món bánh thơm ngon giúp nạp năng lượng nhanh chóng và tiện lợi. Hãy cùng Thu Hà học cách làm sandwich phô mai bơ tỏi chiên giòn cho buổi sáng thôi nào!",
+      "image": "https://cdn.blognauanngon.com/8/posts/1225/thumbnail.jpg",
+      "ingredients": "3 lát bánh sandwich\n30gr bơ lạt\n14gr tỏi băm\n3 miếng phô mai cheddar\n3 miếng thịt giăm bông\n1 ít mùi tây\nDụng cụ: hộp đựng thực phẩm, màng bọc thực phẩm, cây tăm",
+      "introduction": [
+        {
+          "step": "Bước 1: Làm sốt bơ tỏi",
+          "description": "Bạn trộn đều 30gr bơ lạt để mềm với 14gr tỏi băm và 1 muỗng cà phê đường.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1225/2.jpg"
+        },
+        {
+          "step": "Bước 2: Sơ chế sandwich",
+          "description": "3 lát bánh mì sandwich bạn dùng dao cắt các cạnh bánh mì ra liền nhau. Để bánh mì mềm dễ chế biến, bạn cho cạnh sandwich vừa cắt và sandwich vào hộp, bọc kín lại bằng màng bọc thực phẩm rồi cho vào lò vi sóng quay nóng trong 30 giây.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1225/3.jpg"
+        },
+        {
+          "step": "Bước 3: Cuộn sandwich",
+          "description": "Bạn lấy bánh mì ra và cho bơ tỏi lên quét đều mặt bánh. Tiếp theo, đặt lên sandwich 1 miếng phô mai cheddar và 1 miếng thịt giăm bông hấp chín.\n\nKế đến, bạn gập bánh mì lại và cố định bằng cây tăm. Sau đó, tiếp tục quết thêm lớp bơ tỏi ở bên ngoài bánh và rắc 1 ít mùi tây cắt nhỏ. Tiếp tục làm như vậy với những lát sandwich còn lại.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1225/4.jpg"
+        },
+        {
+          "step": "Bước 4: Cuộn viền bánh sandwich",
+          "description": "Phần viền bánh sandwich bạn cuộn tròn lại rồi dùng tăm xiên vào mép cuối cùng của viền bánh để cố định.Sau đó, bạn quết sốt bơ tỏi khắp mặt bánh và rắc lên trên 1 ít mùi tây cắt nhỏ.",
+          "image": "Phần viền bánh sandwich bạn cuộn tròn lại rồi dùng tăm xiên vào mép cuối cùng của viền bánh để cố định.Sau đó, bạn quết sốt bơ tỏi khắp mặt bánh và rắc lên trên 1 ít mùi tây cắt nhỏ."
+        },
+        {
+          "step": "Bước 5: Nướng bánh",
+          "description": "Bạn làm nóng lò nướng ở 180 độ C trước 5 phút. Sau khi cuộn bánh xong, bạn cho bánh lên khay đã đặt sẵn giấy nến, rồi cho khay bánh vào nướng ở nhiệt độ 180 độ C trong 10 phút.\n\nBánh đã nướng chín vàng, bạn đem bánh ra và rút tăm cắm khỏi bánh là hoàn thành.",
+          "image": "https://cdn.blognauanngon.com/8/posts/1225/6.jpg"
+        }
+      ],
+      "result": {
+        "description": "Sandwich phô mai bơ tỏi thơm ngon được nướng chín vàng trông rất hấp dẫn, vị thơm của bơ tỏi, vị phô mai béo mặn và sự giòn rụm của bánh sandwich chắc chắn sẽ khiến bạn cực kì mê mẩn cho xem.",
+        "image": "https://cdn.blognauanngon.com/8/posts/1225/8.jpg"
+      }
+    },
+    {
+      "id": "10",
+      "name": "BƠ NƯỚNG TRỨNG",
+      "description": "Bơ không chỉ là loại trái cây thơm ngon, độc đáo mà còn là nguồn cung cấp vô số dưỡng chất cần thiết cho cơ thể. Theo nhiều nghiên cứu, cứ trong một quả bơ sẽ chứa khoảng 25 loại vitamin và khoáng chất tự nhiên, giúp ổn định huyết áp, kiểm soát cân nặng, bảo vệ tim mạch,… thậm chí ngăn ngừa ung thư vô cùng hiệu quả. Còn trứng gà được nhận định là thực phẩm có giá trị dinh dưỡng cao khi có tác dụng ngăn ngừa các bệnh liên quan đến tim mạch, giảm mỡ trong máu, bảo vệ thị lực, làm chậm quá trình lão hóa da,… Vì thế, hai thực phẩm này kết hợp với nhau đã cho ra đời một món ăn bổ dưỡng, vô cùng hấp dẫn.",
+      "image": "https://cdn.blognauanngon.com/8/posts/2535/thumbnail.jpg",
+      "ingredients": "2 trái bơ\n4 quả trứng gà\nHành lá băm nhỏ (tùy thích)\nGia vị: Muối, tiêu",
+      "introduction": [
+        {
+          "step": "Bước 1: Sơ chế nguyên liệu",
+          "description": "Đầu tiên, đem bơ rửa sạch với nước. Sau đó, dùng dao bổ dọc quả và loại bỏ hạt.",
+          "image": ""
+        },
+        {
+          "step": "Bước 2: Hoàn thành bơ nướng trứng",
+          "description": "Đặt bơ vào một vị trí cố định (như khuôn làm bánh muffin, khuôn bánh khọt, một cái chén,…), rồi đập trứng vào lòng của quả bơ. Sau đó, rắc lần lượt: một ít muối, một ít tiêu và một ít hành lá lên trên cùng. Cuối cùng, đem nướng trong nồi chiên không dầu khoảng 10 15 phút ở 200 độ C. Vậy là xong rồi đấy.",
+          "image": "https://cdn.blognauanngon.com/8/posts/2535/1.jpg"
+        }
+      ],
+      "result": {
+        "description": "Đây là món ăn mới lạ rất thích hợp với những người thích vị béo ngậy, ngòn ngọt bùi bùi của bơ đó nha. Khi thưởng thức, ta còn cảm nhận được chút mằn mặn, cay cay của trứng hòa cùng mùi thơm đặc trưng của hành lá. Món này có thể dùng kèm với bánh mì nướng nóng giòn, ăn sáng hoặc bữa xế là tuyệt vời luôn.\n\nHy vọng qua chia sẻ trên đây, bơ nướng trứng có thể hiện diện trong thực đơn bữa sáng cho cả nhà nhé. Với nguyên liệu vừa dễ mua, cách chế biến thì đơn giản, chắc chắn bạn sẽ phải ra vô căn bếp nhỏ với món này mất thôi.",
+        "image": "https://cdn.blognauanngon.com/8/posts/2535/2.jpg"
+      }
+    },
+    {
+      "id": "11",
+      "name": "CÀ PHÊ SỮA DỪA",
+      "description": "Cà phê sữa dừa là một thức uống thơm ngon và lạ miệng. Tuy nhiên, bạn đã biết chế biến thức uống này đúng cách?",
+      "image": "https://cdn.blognauanngon.com/8/posts/3711/thumbnail.jpg",
+      "ingredients": "30ml sữa đặc\n10ml sữa tươi\n50ml nước cốt cà phê\n40-45 ml nước cốt dừa\n5ml nước đường (tùy thích)\nĐá lạnh",
+      "introduction": [
+        {
+          "step": "Bước 1: Pha hỗn hợp sữa đặc và sữa tươi",
+          "description": "Bạn rót vào ly 30ml sữa đặc và 10ml sữa tươi, sau đó cho một ít đá lạnh vào, khoảng đến gần đầy ly.",
+          "image": "https://cdn.blognauanngon.com/8/posts/3711/2.jpg"
+        },
+        {
+          "step": "Bước 2: Hoàn thiện ly cà phê sữa dừa",
+          "description": "Bạn tiếp tục rót 50ml nước cốt cà phê và khoảng 40-45ml nước cốt dừa. Nếu thích ngọt hơn, bạn có thể cho thêm 5ml nước đường.\n\nVậy là ly cà phê sữa dừa đã hoàn thành.",
+          "image": "https://cdn.blognauanngon.com/8/posts/3711/3.jpg"
+        }
+      ],
+      "result": {
+        "description": "Ly cà phê sữa dừa có màu sắc bắt mắt và hương vị vô cùng thơm ngon. Đây sẽ là thức uống giúp bạn giải tỏa căng thẳng và tăng khả năng tỉnh táo khi học tập và làm việc.",
+        "image": "https://cdn.blognauanngon.com/8/posts/3711/4.jpg"
       }
     }
   ]

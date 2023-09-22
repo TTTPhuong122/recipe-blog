@@ -1,18 +1,18 @@
-import CardProps from '../../../@types/CardProps'
+import CardProps from '../../../types/CardProps'
 import { Card } from 'react-bootstrap'
 import CardSidebar from './CardSidebar'
-import CardItem from '../../Slide/CardItem'
+import CardItem from '../../Feature/CardItem'
 
 export default function Sidebar() {
   const card: CardProps = {
     title: 'This is the first recipe, This is the first recipe',
-    content: 'This is the first recipe',
-    image: './assets/images/header.jpg'
+    description: 'This is the first recipe',
+    image: '.././assets/images/header.jpg'
   }
   return (
     <>
-      <Card className='my-3 text-center'>
-        <Card.Img variant='top' src='./assets/images/header.jpg' />
+      <Card className='my-3'>
+        <Card.Img className='w-75 h-75 mx-4' variant='top' src='.././assets/images/avatar.webp' />
         <Card.Body>
           <Card.Title>
             <h2 className='fw-bold'>Trần Thị Thu Phượng</h2>

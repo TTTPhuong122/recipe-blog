@@ -1,0 +1,23 @@
+.carousel-indicators {
+  display: none;
+}
+.carousel-caption {
+  color: white;
+  font-family:
+    'futura-pt',
+    halyard- 'display',
+    sans-serif;
+    z-index: 1;
+    right: 0;
+    width: 100%;
+
+}
+.overlay{
+  background-image: linear-gradient(to right, rgba(200,210,200,0.2 ), 
+  rgb(13, 152, 113));
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 90%;
+  height: 100%;
+}

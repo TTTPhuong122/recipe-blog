@@ -113,12 +113,12 @@ Lúc này các bạn sẽ thấy một file `tailwind.config.js` xuất hiện t
 ```js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./src/**/*.{ts,tsx}'],
+  content: ["./src/**/*.{ts,tsx}"],
   theme: {
-    extend: {}
+    extend: {},
   },
-  plugins: []
-}
+  plugins: [],
+};
 ```
 
 Ý nghĩa là Tailwindcss nó sẽ giám sát và có hiệu lực lên những file có đuôi là `.ts` và `.tsx` trong folder `src`
@@ -174,21 +174,26 @@ Chạy dự án
 npm start
 ```
 
-## Tạo webserver bằng json server: 
+## Tạo webserver bằng json server:
+
 npm init -y
 npm i json-server
 tạo file db.json
 
 add script
+
 ```bash
 "start": "json-server --watch db.json"
 
 ```
+
 change port
+
 ```bash
 "start": "json-server --watch db.json --port 4000 "
 
 ```
+
 cài đặt axios để fetch API
 
 ```bash
@@ -196,7 +201,9 @@ cd vào file react
 npm i axios
 tạo folder utils/http.ts => cấu hình http để dùng axios
 ```
+
 cấu hình axios:
+
 ```bash
 import axios, { AxiosInstance } from 'axios'
 
@@ -215,3 +222,8 @@ const http = new Http().instance
 export default http
 ```
 
+## chuyển file hjson -> json :
+
+````bash
+hjson -j db.hjson > db.json
+````
