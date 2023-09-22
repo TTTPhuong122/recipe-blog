@@ -151,29 +151,6 @@ npm i react-redux @reduxjs/toolkit
 
 Xong hết rồi đó, bây giờ bạn có thể tiến hành setup Redux và khởi tạo giao diện tailwindcss được rồi
 
-## Nếu bạn quá lười để tự cài các package trên, bạn có thể dùng template của mình
-
-Ưu điểm của việc tự cài là các bạn sẽ học được cách setup từ zero, nó không tốn quá nhiều thời gian của các bạn, chỉ cỡ 2 phút 😁. Ngoài ra các bạn tự cài thì sẽ luôn cài được các package với version mới nhất.
-
-Nhưng nếu các bạn chỉ muốn học Redux ngay thì mình có sẵn template cho các bạn
-
-Đó là folder `starter-blog`. Template này đã bao gồm việc setup các package prettier, eslint, tailwincss cần thiết cũng như là phân chia component UI sẵn cho các bạn (bao gồm luôn skeleton UI). Các bạn chỉ cần chạy lên và bắt đầu tiến hành cấu hình redux dùng thôi.
-
-Cách chạy:
-
-cd vào thư mục `starter-blog` và chạy các package cần thiết bằng `yarn`
-
-```bash
-cd starter-blog
-yarn
-```
-
-Chạy dự án
-
-```bash
-npm start
-```
-
 ## Tạo webserver bằng json server:
 
 npm init -y
