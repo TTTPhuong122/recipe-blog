@@ -22,14 +22,15 @@ function PaginationLine(props: any) {
         </Pagination>
       )
     else {
+      const items = [];
+      for (let index = 1; index <= pageNumbers; index++) {
+        items.push(<Pagination.Item key={index}>{index}</Pagination.Item>);
+      }
       return (
         <Pagination className='justify-content-center'>
           <Pagination.First />
           <Pagination.Prev />
-          <Pagination.Item>{1}</Pagination.Item>
-          <Pagination.Item>{2}</Pagination.Item>
-          <Pagination.Item>{3}</Pagination.Item>
-          <Pagination.Item>{4}</Pagination.Item>
+          {items}
           <Pagination.Next />
           <Pagination.Last />
         </Pagination>

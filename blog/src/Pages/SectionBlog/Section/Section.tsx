@@ -14,46 +14,24 @@ interface SectionProps {
   currentPage: number
   feature: string | null
 }
+export interface RecipeCard extends Recipe {
+  category: string
+}
 export default function Section(props: SectionProps) {
-  const { currentPage, feature } = props
+  const { feature } = props
   // const card: CardProps = {
   //   title: 'This is the first recipe, This is the first ffsjdkffhdsffkhdffls',
   //   description:
   //     'Những cuộn thịt bò nấm kim châm dai mềm, đậm đà được nướng hoặc áp chảo thơm phức luôn là một trong những món bán chạy nhất trong các nhà hàng. Nhưng bạn không cần phải cất công đến nhà hàng nữa mà ngay tại nhà bạn vẫn có thể làm được món này với công thức siêu dễ, siêu nhanh.',
   //   image: './assets/images/header.jpg'
   // }
-  // const [blogList, setBlogList] = useState<Recipe[]>([])
-  let blogList: Recipe[] = []
-  const category = useLocation().pathname.split('/')[3]
+  // const [blogList, blogList = ] = useState<ListBlog>(initial)
+  let blogList: RecipeCard[] = []
   const breakfast = useSelector((state: RootState) => state.blog.breakfasts)
   const snack = useSelector((state: RootState) => state.blog.snacks)
   const mainfood = useSelector((state: RootState) => state.blog.mainfoods)
   const loading = useSelector((state: RootState) => state.blog.loading)
   const dispatch = useAppDispatch()
-  let pageNumber = 0
-  // useEffect(() => {
-  //   if (category === 'breakfast') {
-  //     const promsie = dispatch(getBreakfasts())
-  //     return () => {
-  //       promsie.abort()
-  //     }
-  //   } else if (category === 'mainfood') {
-  //     const promsie = dispatch(getMainFood())
-  //     return () => {
-  //       promsie.abort()
-  //     }
-  //   } else if (category === 'snack') {
-  //     const promsie = dispatch(getSnackfs())
-  //     return () => {
-  //       promsie.abort()
-  //     }
-  //   } else {
-  //     const promsie = dispatch(getRecipeList())
-  //     return () => {
-  //       promsie.abort()
-  //     }
-  //   }
-  // }, [dispatch])
   useEffect(() => {
     const promsie = dispatch(getBreakfasts())
     const promsie2 = dispatch(getMainFoods())
@@ -65,19 +43,27 @@ export default function Section(props: SectionProps) {
       promsie3.abort()
     }
   }, [])
-  if (breakfast && snack && mainfood) {
-    if (feature) {
-      if (feature === 'breakfast') blogList = [...breakfast]
-      else if (feature === 'mainfood') blogList = [...mainfood]
-      else if (feature === 'snack') blogList = [...snack]
-    } else {
-      blogList = blogList.concat(snack, breakfast, mainfood)
-    }
-
-    pageNumber = blogList.length
+  const newBreakfast: RecipeCard[] = []
+  breakfast?.forEach((breakfast) => {
+    newBreakfast.push({ ...breakfast, category: 'breakfast' })
+  })
+  const newMainfood: RecipeCard[] = []
+  mainfood?.forEach((mainfood) => {
+    newMainfood.push({ ...mainfood, category: 'mainfood' })
+  })
+  const newSnack: RecipeCard[] = []
+  snack?.forEach((snack) => {
+    newSnack.push({ ...snack, category: 'snack' })
+  })
+  const featureList = ['breakfast', 'mainfood', 'snack']
+  const featureBlogList = [newBreakfast, newMainfood, newSnack]
+  if (feature) {
+    blogList = featureBlogList[featureList.indexOf(feature)]
+  } else {
+    blogList = newBreakfast.concat(newMainfood, newSnack)
   }
-  const path = feature ? '/' + feature + '/' : '/'
-  console.log(blogList)
+  let blogCount = blogList.length
+  console.log(blogCount)
   return (
     <Container>
       <InputGroup.Text id='basic-addon1'>
@@ -87,29 +73,21 @@ export default function Section(props: SectionProps) {
         <div>
           <Row>
             {blogList &&
-              blogList.slice(0, 2).map((recipe) => (
+              blogCount < 7 &&
+              blogList.map((recipe) => (
                 <Col className=' col-lg-6 col-12'>
-                  <CardItem card={recipe} path={path} key={recipe.id} />
+                  <CardItem card={recipe} key={recipe.id} />
+                </Col>
+              ))}
+            {blogList &&
+              blogCount >= 7 &&
+              blogList.slice(0, 8).map((recipe) => (
+                <Col className=' col-lg-6 col-12'>
+                  <CardItem card={recipe} key={recipe.id} />
                 </Col>
               ))}
           </Row>
-          {/* <Row>
-            {blogList &&
-              blogList.slice(2, 4).map((recipe) => (
-                <Col className=' col-lg-6 col-12'>
-                  <CardItem card={recipe} path={path} key={recipe.id} />
-                </Col>
-              ))}
-          </Row>
-          <Row>
-            {blogList &&
-              blogList.slice(4, 6).map((recipe) => (
-                <Col className=' col-lg-6 col-12'>
-                  <CardItem card={recipe} path={path} key={recipe.id} />
-                </Col>
-              ))}
-          </Row> */}
-          <PaginationLine pageNumbers={Math.floor(pageNumber / 2)} />
+          <PaginationLine pageNumbers={Math.round(blogCount / 8)} />
         </div>
       )}
       {loading && (
