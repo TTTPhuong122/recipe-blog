@@ -1,4 +1,4 @@
-## Deploy: https://rest-api-recipe-blog-s8ws.vercel.app/
+## Deploy: https://recipe-blog-c53y.vercel.app/
 
 ## Cách setup một dự án theo flow các video của mình
 
