@@ -61,7 +61,6 @@ export default function Section(props: SectionProps) {
   }
   let start = 8 * (currentPage - 1)
   let end = start + 8 > blogList.length ? blogList.length : start + 8
-  console.log(start, end)
   return (
     <Container>
       <InputGroup.Text id='basic-addon1'>
@@ -85,7 +84,7 @@ export default function Section(props: SectionProps) {
                 </Col>
               ))}
           </Row>
-          <PaginationLine pageNumbers={Math.round(blogList.length / 8)} />
+          <PaginationLine currentPage={currentPage} pageNumbers={Math.ceil(blogList.length / 8)} />
         </div>
       )}
       {loading && (

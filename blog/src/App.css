@@ -54,7 +54,7 @@ footer {
 .page-link {
   color: #6caa7f;
 }
-.page-link:active, .page-link:hover {
+.active>.page-link, .page-item:hover{
   color: white;
   background-color: #6caa7f;
   border-color: #6caa7f;
