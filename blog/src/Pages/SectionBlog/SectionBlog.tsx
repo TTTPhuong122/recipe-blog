@@ -3,26 +3,18 @@ import Section from './Section/Section'
 import Sidebar from './Sidebar/Sidebar'
 import Search from '../../components/Search'
 import Header from '../../components/Header'
-import Feature from '../Feature'
-import { useLocation, useRoutes } from 'react-router-dom'
+import { useLocation, useParams, useRoutes } from 'react-router-dom'
 export default function SectionBlog() {
+  const { pageNumber, feature } = useParams()
   const elements = useRoutes([
     {
-      path: '/',
-      element: <Section currentPage={1} feature={null} />
+      path: '*',
+      element: <Section pageNumber='4' feature={useLocation().pathname.split('/')[2]} />
     },
     {
-      path: '*',
-      element: <Section currentPage={1} feature={useLocation().pathname.split('/')[2]} />
+      path: '/',
+      element: <Section pageNumber={pageNumber} feature={feature} />
     }
-    // {
-    //   path: '/staff/*',
-    //   element: <Staff />
-    // },
-    // {
-    //   path: '*',
-    //   element: <NotFound />
-    // }
   ])
   return (
     <>

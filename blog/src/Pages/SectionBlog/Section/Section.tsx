@@ -11,21 +11,18 @@ import 'react-loading-skeleton/dist/skeleton.css'
 import { useLocation } from 'react-router-dom'
 import Recipe from '../../../types/Recipe.type'
 interface SectionProps {
-  currentPage: number
-  feature: string | null
+  pageNumber: string | undefined
+  feature: string | undefined
 }
 export interface RecipeCard extends Recipe {
   category: string
 }
 export default function Section(props: SectionProps) {
-  const { feature } = props
-  // const card: CardProps = {
-  //   title: 'This is the first recipe, This is the first ffsjdkffhdsffkhdffls',
-  //   description:
-  //     'Những cuộn thịt bò nấm kim châm dai mềm, đậm đà được nướng hoặc áp chảo thơm phức luôn là một trong những món bán chạy nhất trong các nhà hàng. Nhưng bạn không cần phải cất công đến nhà hàng nữa mà ngay tại nhà bạn vẫn có thể làm được món này với công thức siêu dễ, siêu nhanh.',
-  //   image: './assets/images/header.jpg'
-  // }
-  // const [blogList, blogList = ] = useState<ListBlog>(initial)
+  const { feature, pageNumber } = props
+  let currentPage = 1
+  if (pageNumber !== undefined) {
+    currentPage = parseInt(pageNumber, 10)
+  }
   let blogList: RecipeCard[] = []
   const breakfast = useSelector((state: RootState) => state.blog.breakfasts)
   const snack = useSelector((state: RootState) => state.blog.snacks)
@@ -62,7 +59,9 @@ export default function Section(props: SectionProps) {
   } else {
     blogList = newBreakfast.concat(newMainfood, newSnack)
   }
-  let blogCount = blogList.length
+  let start = 8 * (currentPage - 1)
+  let end = start + 8 > blogList.length ? blogList.length : start + 8
+  console.log(start, end)
   return (
     <Container>
       <InputGroup.Text id='basic-addon1'>
@@ -72,21 +71,21 @@ export default function Section(props: SectionProps) {
         <div>
           <Row>
             {blogList &&
-              blogCount < 7 &&
-              blogList.map((recipe) => (
+              end - start < 8 &&
+              blogList.slice(start, end + 1).map((recipe) => (
                 <Col className=' col-lg-6 col-12'>
                   <CardItem card={recipe} key={recipe.id} />
                 </Col>
               ))}
             {blogList &&
-              blogCount >= 7 &&
-              blogList.slice(0, 8).map((recipe) => (
+              end - start >= 8 &&
+              blogList.slice(start, end).map((recipe) => (
                 <Col className=' col-lg-6 col-12'>
                   <CardItem card={recipe} key={recipe.id} />
                 </Col>
               ))}
           </Row>
-          <PaginationLine pageNumbers={Math.round(blogCount / 8)} />
+          <PaginationLine pageNumbers={Math.round(blogList.length / 8)} />
         </div>
       )}
       {loading && (

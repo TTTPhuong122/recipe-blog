@@ -151,7 +151,317 @@
         "description": "Như vậy trứng cút rim bơ tỏi như vậy là hoàn thành. Trứng cút khi ăn có vị bùi đặc trưng, nước sốt bơ beo béo hòa quyện cùng 1 chút mặn ngọt làm không thể cưỡng lại được.\n\nHy vọng qua chia sẻ trên, bạn đã biết cách làm hàu xào sả ớt rồi nhé. Vậy thì bạn còn chần chờ gì mà không lưu lại công thức và trổ tài làm ngay cho gia đình thưởng thức thôi nào.",
         "image": "https://cdn.blognauanngon.com/8/posts/4895/5.jpg"
       }
-    }
+    },
+    {
+      "id": "190920236",
+      "name": "Làm món vịt nấu cam – hương vị ngon tuyệt, thú vị từ đầu đến cuối",
+      "description": "Vịt nấu cam tạo được sự cuốn hút lạ kỳ bởi màu sắc và hương vị vô cùng hấp dẫn. Đây không chỉ là món ăn thơm ngon mà còn vô cùng bổ dưỡng nữa đấy. Theo báo VnExpress thì thịt vịt chứa nhiều Protein, Sắt, Canxi, vitamin A, B1, D góp phần giải nhiệt, giải độc cơ thể và rất tốt cho người gầy muốn tăng cân. Còn cam vốn được biết là loại hoa quả chứa nhiều vitamin C, giúp tăng cường sức đề kháng hiệu quả. Do đó, với công thức đơn giản này, bạn có thể cùng cả nhà thưởng thức món ăn độc đáo này ngay tại căn nhà nhỏ của mình.",
+      "image": "https://cdn.blognauanngon.com/8/posts/5918/thumbnail.jpg",
+      "ingredients": 
+      '''
+      1,5kg thịt vịt
+      20g gừng (băm nhuyễn)
+      1 quả cam
+      2 củ khoai tây
+      12 củ hành tây
+      1 củ cà rốt
+      10g tỏi
+      10g hành tím
+      500ml nước dừa
+      Ăn kèm: Bún hoặc bánh mì.
+      Gia vị: Hạt nêm, bột canh, nước mắm, tiêu, nước tương, dầu hào, muối.
+      ''',
+      "introduction": [
+        {
+          "step": Bước 1: Sơ chế nguyên liệu
+          "description": 
+          '''
+          Đầu tiên, đem thịt vịt đi làm sạch lông bên ngoài, dùng một ít muối và 20g gừng băm nhuyễn chà xát, rồi cắt miếng vừa ăn.
+
+          Hành tím và tỏi sẽ đem đập dập, băm nhỏ. Hành tây thì cắt múi cau, khoai tây cắt miếng vừa ăn, cà rốt thì tỉa đơn giản và cắt thành hình cánh hoa. Còn cam ta sẽ vắt lấy nước nhé. Sau đó, bắc chảo và nhiều dầu ăn lên bếp, khi dầu nóng thì cho khoai tây và cà rốt vào chiên sơ đến khi xém vàng thì gắp ra dĩa.
+         '''
+          "image": ""
+        },
+        {
+          "step": Bước 2: Ướp thịt vịt
+          "description": 
+          '''
+          Cho vào tô 1,5kg thịt vịt cùng 5g hành tím băm, 5g tỏi băm, 12 muỗng cà phê tiêu, 12 muỗng canh bột canh, 12 muỗng canh dầu hào, 1,5 muỗng canh nước tương, 12 muỗng canh hạt nêm và 2 muỗng canh nước mắm. Trộn đều và ướp khoảng 30 phút.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/5918/1.jpg
+        },
+        {
+          "step": Bước 3: Nấu vịt với cam
+          "description": 
+          '''
+          Bắc nồi và dầu ăn lên bếp, khi dầu nóng thì cho hành và tỏi băm vào phi vàng thơm. Xong thì mới thả thịt vào vào đảo sơ cho săn.
+
+      Sau đó, đổ 500ml dừa vào, nấu đến khi sôi thì thêm cà rốt, khoai tây, hành tây và nước cam vào. Cuối cùng, ta sẽ nấu đến khi hỗn hợp sôi lại, hầm đến khi hỗn hợp mềm là ăn được rồi (tầm 20 30 phút).
+      '''
+          "image": https://cdn.blognauanngon.com/8/posts/5918/2.jpg
+        }
+      ],
+      "result": {
+        "description": 
+        '''
+        Vịt nấu cam có phần thịt chắc thơm, nhưng vẫn mềm mà không bị dai hay cứng nhé. Còn phần nước dùng thì ngọt thanh, pha lẫn chút chua dịu của nước cam. Tất cả cùng hòa quyện vào nhau tạo nên món ăn có hương vị đặc trưng khiến người ta khoái khẩu, nhớ nhung đến khó lời giải thích.
+
+        Hy vọng qua chia sẻ trên, bạn có thể tự tay nấu một phần vịt nấu cam cho cả nhà cùng ăn nhé. Món này có thể ăn kèm với bún hoặc bánh mì nè, đảm bảo ngon hết sẩy luôn. Hãy lưu lại công thức và trổ tài thực hiện món ăn hấp dẫn này ngay bạn nhé.
+        '''
+        "image":https://cdn.blognauanngon.com/8/posts/5918/3.jpg
+      }
+    },
+    {
+      "id": "190920237",
+      "name": Nấu bún xương heo đơn giản cho bữa sáng thêm ngon
+      "description": Bún xương heo là món dễ ăn, dễ nấu và nhiều dinh dưỡng. Một tô bún xương heo thơm lừng với nước dùng đậm đà, thịt heo mềm ngọt giúp cả gia đình có một bữa sáng thật ngon miệng. Thu Hà sẽ hướng dẫn bạn làm món này nhé.
+      "image": https://cdn.blognauanngon.com/8/posts/1219/5.jpg
+      "ingredients": 
+      '''
+     1 kg bún tươi
+1 kg xương heo
+300g chả lụa
+100g giá
+3 cây sả
+1 củ hành tây
+1 củ gừng tươi
+Rau sống, hành lá, ngò, tỏi, hành tím
+Gia vị: đường, muối, bột ngọt, nước mắm
+      ''',
+      "introduction": [
+        {
+          "step": Bước 1:  Chuẩn bị nguyên liệu
+          "description": 
+          '''
+          Xương heo chặt miếng vừa ăn, rửa sạch.
+
+Sả cây bỏ lớp lá ngoài, rửa sạch, đập dập. Đem hành tây và gừng nướng cho thơm. Sau đó gừng cạo vỏ, cắt làm nhiều khúc. Hành tây bỏ vỏ, cắt miếng to. Tỏi, hành tím băm nhỏ.
+Giá, rau sống rửa sạch, để ráo dùng ăn kèm. Chả lụa cắt lát vừa ăn.
+
+Hành lá, ngò rửa sạch, cắt nhỏ.
+         '''
+          "image": https://cdn.blognauanngon.com/8/posts/1219/1.jpg
+        },
+        {
+          "step": Bước 2:  Nấu nước dùng
+          "description": 
+          '''
+          Cho nồi lên bếp, phi thơm hành, tỏi băm, cho xương vào xào lăn qua cho thơm. Sau đó đổ nước ngập xương để hầm.
+
+Cho hành tây, gừng đã nướng, sả vào nồi nước dùng.
+
+Hầm xương từ 60 phút đến 90 phút, khi xương chín mềm, nêm đường, muối, nước mắm, bột ngọt cho vừa ăn thì tắt bếp.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/1219/3.jpg
+        }
+        
+      ],
+      "result": {
+        "description": 
+        '''
+                  Khi ăn, cho bún tươi ra tô, gắp xương heo lên mặt bún, thêm vài lát chả lụa, hành lá, ngò, sau đó cho nước dùng vào. Ăn kèm với rau sống và giá. Món ăn ngon nhất khi được dùng nóng.
+
+        '''
+        "image":https://cdn.blognauanngon.com/8/posts/1219/4.jpg
+      }
+    },
+    {
+      "id": "190920238",
+      "name": Hướng dẫn làm bí đỏ chiên thịt
+      "description": Bí đỏ là thực phẩm thơm ngon và vô cùng bổ dưỡng, bên cạnh các món canh ngon được chế biến từ bí đỏ thì hôm này Bách máy XANH sẽ hướng dẫn bạn cách làm bí đỏ chiên thịt thơm ngon, cực đơn giản.
+      "image": https://cdn.blognauanngon.com/8/posts/270/7.jpg
+      "ingredients": 
+      '''
+      500gr bí đỏ (2 quả)
+400gr thịt heo xay
+20gr nấm hương khô
+20gr mộc nhĩ
+Hành tây, tỏi
+1 quả trứng gà
+Gia vị: Hạt nêm, bột ngọt, tiêu xay, nước mắm
+      ''',
+      "introduction": [
+        {
+          "step": Bước 1:  Sơ chế nguyên liệu
+          "description": 
+          '''
+          Hành tây bỏ vỏ, cắt hạt lựu. Tỏi băm nhuyễn. Ngâm nấm hương và nấm mèo với nước khoảng 30 – 45 phút cho nở mềm, sau đó xả sạch lại với nước rồi xắt nhuyễn.
+         '''
+          "image": https://cdn.blognauanngon.com/8/posts/270/2.jpg
+        },
+        {
+          "step": Bước 2: Ướp thịt
+          "description": 
+          '''
+          Cho vào tô lớn các nguyên liệu gồm thịt heo xay, hành tây, nấm hương, mộc nhĩ, và tỏi băm.
+
+Nêm vào thịt 1/5 muỗng canh hạt nêm, 1/2 muỗng canh bột ngọt, 1/2 muỗng canh nước mắm, 1 muỗng cà phê tiêu xay sau đó trộn đều và ướp thị trong khoảng 15 -20 phút cho thấm gia vị.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/270/3.jpg
+        },
+        {
+          "step": Bước 3: Nhồi bí
+          "description": 
+          '''
+          Bí đỏ rửa sạch, cắt thành từng khoanh dày khoảng 5 – 7 cm, khoét bỏ ruột. Kế đến, múc một lượng nhân vừa phải rồi nhồi vào từng khoanh bí.
+      '''
+          "image": https://cdn.blognauanngon.com/8/posts/270/4.jpg
+        },
+        {
+          "step": Bước 4:  Chiên bí
+          "description": 
+          '''
+          Đun sôi dầu ăn rồi cho từng khoanh bí vào chảo chiên ở lửa lớn, khi mặt dưới của bí vừa chín thì lật lại và tiếp tục chiên cho hai mặt vàng đều. Hạ nhỏ lửa rồi thoa đều hỗn hợp trứng gà đánh tan lên trên, chiên thêm khoảng 1 – 2 phút cho bí chín rồi rắc vào một ít hành lá và tắt bếp.
+      '''
+          "image": https://cdn.blognauanngon.com/8/posts/270/5.jpg
+        },
+        {
+          "step": Bước 5:  Thành phẩm
+          "description": 
+          '''
+Cho bí đỏ ra dĩa và thưởng thức, bạn có thể dùng bí đỏ chiên thịt chấm cùng nước tương hoặc tương ớt đều ngon.      '''
+          "image": https://cdn.blognauanngon.com/8/posts/270/6.jpg
+        }
+      ],
+      "result": {
+        "description": 
+        '''
+        Bí đỏ chiên thịt có màu sắc bắt mắt. Phần vỏ bên ngoài giòn dai cùng phần thịt bên trong ngọt thơm cực kỳ đậm đà.
+        '''
+        "image":https://cdn.blognauanngon.com/8/posts/270/7.jpg
+      }
+    },
+    {
+      "id": "190920239",
+      "name": Cách làm cá chép chưng tương hột bún tàu
+      "description": Cá kho hay cá chiên, dù rất ngon nhưng bạn đã làm nhiều rồi thì hãy thử ngay món cá chép chưng tương hột bún tàu ngon miệng mà lại giàu dinh dưỡng này nhé.
+      "image": https://cdn.blognauanngon.com/8/posts/4173/6.jpg
+      "ingredients": 
+      '''
+      800g cá chép
+50g bún tàu
+4 thìa canh tương hột
+100g hành tây
+20g gừng
+3 nhánh hành lá
+30g hành tím
+30g tỏi
+1 thìa canh rượu gạo
+1 thìa canh dầu hào
+5g ớt băm
+5g ngò rí
+30g đậu phộng rang giã nhuyễn
+120ml nước
+Gia vị: Muối, tiêu, đường, hạt nêm, bột ngọt
+      ''',
+      "introduction": [
+        {
+          "step": Bước 1: Sơ chế cá chép và các nguyên liệu
+          "description": 
+          '''
+          Đầu tiên, bạn tiến hành rửa sạch cá chép với nước, chà sát cá với hỗn hợp muối và chanh để khử trùng cũng như giảm bớt mùi tanh của cá rồi để ráo nước.
+
+Tiếp theo, bạn lần lượt băm nhỏ 25g hành tím và 30g tỏi, cắt sợi 15g gừng, cắt lát mỏng 100g hành tây và cắt khúc 3 nhánh hành lá.
+Sau đó, bạn ngâm 50g bún tàu với nước ấm khoảng 15 phút, để sợi bún được mềm ra, bạn vớt bún tàu ra, cắt khúc vừa ăn rồi để cho ráo nước.
+
+
+         '''
+          "image": https://cdn.blognauanngon.com/8/posts/4173/2.jpg
+        },
+        {
+          "step":  Bước 2: Ướp cá chép
+          "description": 
+          '''
+          Bạn cho vào một tô to, đủ diện tích cá lần lượt: 1 thìa cà phê bột nêm, 1 thìa cà phê đường, 1 thìa cà phê tương hột, 13 thìa cà phê bột ngọt, 13 thìa cà phê tiêu, 1 thìa canh rượu gạo và một ít gừng, tỏi, hành tím băm nhỏ.
+
+Tiếp theo, bạn trộn đều hỗn hợp gia vị. Sau đó dùng hỗn hợp thoa đều khắp thân cá và bên trong cá, bạn ướp cá từ 15-20 phút để thấm đều gia vị.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/4173/3.jpg
+        },
+        {
+          "step": Bước 3: Chế biến hỗn hợp sốt tương
+          "description": 
+          '''
+          Đầu tiên, bạn cho 5g hành tím, 5g ớt băm và 5g gừng vào chảo, sau đó xào lên, khi nghe mùi thơm thì tắt bếp. Bạn tiếp tục cho lần lượt: 1 thìa canh nước tương, 1 thìa canh dầu hào, 1 thìa rưỡi canh đường, 2 thìa canh tương hột, 12 thìa canh bột ngọt, 12 thìa cà phê tiêu và 120ml nước, bạn khuấy đều hỗn hợp, nấu đến khi sôi đều thì tắt bếp.
+      '''
+          "image": https://cdn.blognauanngon.com/8/posts/4173/4.jpg
+        },
+        {
+          "step": Bước 4:  Cách làm cá chép chưng tương hột bún tàu
+          "description": 
+          '''
+          Bạn tiến hành các bước như sau, đầu tiên bạn cho bún tàu lót bên dưới dĩa, tiếp đến là hành tây, hành lá, ngò rí và gừng rồi đặt cá vào giữa.
+
+Tiếp theo, bạn xếp thêm bún tàu xung quanh và lên bề mặt cá. Sau đó, bạn đổ đều hỗn hợp sốt tương lên bề mặt cá. Bạn chưng cá bằng xửng hoặc các thiết bị điện tử có chức năng tương tự từ 25-30 phút.
+      '''
+          "image": https://cdn.blognauanngon.com/8/posts/4173/5.jpg
+        },
+        {
+          "step": Bước 5:  Thành phẩm
+          "description": 
+          '''
+        Cuối cùng, bạn lấy cá ra, rắc thêm một ít đậu phộng rang giã nhuyễn lên, lúc này chúng ta đã có món cá chưng tương thơm ngon rồi đấy!
+    '''
+          "image": https://cdn.blognauanngon.com/8/posts/4173/6.jpg
+        }],
+      "result": {
+        "description": 
+        '''
+        Vị tươi từ cá hòa chút mặn đậm vị của tương, thêm chút dai dai của bún tàu đã làm nên món cá chép chưng tương hột bún tàu khiến bất kỳ ai cũng khó lòng mà chối từ.
+        '''
+        "image":https://cdn.blognauanngon.com/8/posts/4173/7.jpg
+      }
+    },
+    {
+      "id": "40",
+      "name": Cách nấu cháo mực tươi với cà rốt
+      "description": ""
+      "image": https://cdn.blognauanngon.com/8/posts/6505/8.jpg
+      "ingredients": 
+      '''
+      60g gạo
+
+        50g mực tươi
+
+        30g cà rốt
+
+        Hành tím, hành lá
+
+        Gia vị: muối, dầu ăn cho bé, nước mắm, hạt nêm
+      ''',
+      "introduction": [
+        {
+          "step": Bước 1: Chuẩn bị nguyên liệu
+          "description": 
+          '''
+          – Gạo vo sạch, đem ngâm cho mềm.
+
+– Hành tím bóc vỏ, rửa sạch, băm nhỏ.
+– Mực làm sạch với muối, sau đó rửa sạch.Sau đó đem mực thái miếng, ướp với ít hành tím, nước mắm, hạt nêm.
+– Cà rốt bào vỏ, rửa sạch, cắt miếng, sau đó đem hấp chín.
+– Hành lá rửa sạch, thái nhỏ.
+         '''
+          "image": ""
+        },
+        {
+          "step":  Nấu cháo
+          "description": 
+          '''
+          – Cho gạo vào nồi, ninh nhừ.
+          – Phi thơm hành, cho mực vào xào nhanh, khi mực vừa chín tới thì tắt bếp.
+          – Đem mực và cà rốt đã hấp chín xay hoặc băm nhuyễn. Cháo chín nhừ thì cho mực và cà rốt vào khuấy đều, nêm ít muối cho vừa khẩu vị của bé, đợi cháo sôi lại thì tắt bếp.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/6505/7.jpg
+        },
+        ],
+      "result": {
+        "description": 
+        '''
+        Vị tươi từ cá hòa chút mặn đậm vị của tương, thêm chút dai dai của bún tàu đã làm nên món cá chép chưng tương hột bún tàu khiến bất kỳ ai cũng khó lòng mà chối từ.
+        '''
+        "image":https://cdn.blognauanngon.com/8/posts/6505/8.jpg
+      }
+    },
   ],
   "snack": [
     {
@@ -396,7 +706,135 @@ Cho 1 giọt màu thực phẩm màu xanh lá vào phần kem dưa lưới còn 
         "image": https://cdn.blognauanngon.com/8/posts/2619/9.jpg
       }
     },
-    
+    {
+      "id": "190920234",
+      "name": Cách làm kẹo gừng dẻo hiệu quả trong việc hỗ trợ trị cảm, ho
+      "description": Gừng được xem là một trong những bài thuốc dân gian có tác dụng giải cảm cực kỳ hiệu quả. Hôm nay, Thu Hà sẽ hướng dẫn bạn cách làm kẹo gừng dẻo với công thức đơn giản sau đây.
+      "image": https://cdn.blognauanngon.com/8/posts/5596/thumbnail.jpg
+      "ingredients": 
+      '''Gừng: 200g
+        Thơm: 200g
+        Đường: 200g
+        Vừng rang chín: 1 muỗng canh
+        Dụng cụ: Máy xay sinh tố, găng tay nilon, giấy bóng kính để gói kẹo.
+      '''
+      "introduction": [
+        {
+          "step": Bước 1: Sơ chế nguyên liệu
+          "description": 
+          '''
+          Thơm mua về bạn gọt bỏ vỏ và bỏ đi phần mắt. Bạn cắt thơm thành từng miếng nhỏ, bỏ phần cùi trắng ở giữa.
+
+Bạn cho thơm vào 1 chén nhỏ, cho thêm vào 200g đường và trộn đều lên. Tùy vào khẩu vị của mình, bạn có thể thêm hoặc bớt đường tùy thích nhé, ướp hỗn hợp trong khoảng 1 tiếng để đường tan và thấm vào thơm.
+Trong thời gian đó, bạn sẽ tiến hành sơ chế gừng. Gừng bạn gọt vỏ, rửa sạch rồi cắt thành từng sợi nhỏ.
+
+Tiếp theo, bạn bắc lên bếp 1 nồi nước sôi rồi cho gừng vào. Bạn chần gừng trong nước sôi khoảng 5 phút để giảm bớt độ cay và nồng của gừng.
+
+Bạn tắt bếp, vớt gừng ra và rửa gừng với nước sạch, để một lúc cho ráo nước.
+Sau đó, bạn cho toàn bộ phần gừng vào chén đã ướp thơm với đường khi nãy. Trộn thật đều để gừng và thơm được trộn lẫn vào nhau. Bạn tiếp tục ướp hỗn hợp thêm 1 tiếng nữa.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/5596/1.jpg
+        },
+        {
+          "step": Bước 2: Nấu kẹo
+          "description": 
+          '''
+          Bạn cho toàn bộ hỗn hợp vào máy xay sinh tố, xay nhanh cho hỗn hợp hơi nhuyễn ra, không xay quá nhuyễn. Bạn bắc chảo lên bếp, cho hỗn hợp vào sên ở lửa vừa, vừa sên vừa đảo đều tay.
+
+Khi hỗn hợp đã sánh lại, bạn vặn lửa nhỏ và tiếp tục nấu đến khi hỗn hợp sệt lại, thơm và gừng chuyển sang màu vàng đậm. Bạn cho phần vừng đã rang vào, trộn đều thêm khoảng 1 – 2 phút nữa rồi tắt bếp.
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/5596/4.jpg
+        },
+        {
+          "step": Bước 3: Gói kẹo
+          "description": 
+          '''
+          Bạn đeo găng tay nilon vào, bôi thêm một ít dầu ăn để kẹo không bị dính. Cho một ít kẹo ra tay rồi vo thành những viên tròn hoặc dài tùy thích. Bạn nên gói kẹo ngay khi kẹo còn ấm để kẹo không bị cứng.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/5596/5.jpg
+        }
+        {
+          "step": Bước 4: Làm thạch lê
+          "description": 
+          '''
+          Đầu tiên gọt vỏ lê rồi thái hạt lựu. Tiếp theo, cho lê vào các bát nước màu và ngâm trong vòng 1 tiếng để hạt lựu ngấm màu.
+
+Sau khi lê đã ngấm màu thì cho 3 muỗng cà phê bột năng vào mỗi phần rồi trộn đều rồi nấu nước sôi để luộc phần thạch lê cho đến khi thấy lớp vỏ bên ngoài trong suốt là đã chín.
+
+Tiếp theo, bạn vớt thạch ra trần sơ qua nước lạnh rồi để ráo. Sau đó cho 1 muỗng canh đường vào mỗi phần rồi trộn đều.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/1811/5.jpg
+        }
+        
+      ],
+      "result": {
+        "description": Những chiếc kẹo gừng dẻo xinh xắn, hấp dẫn, vừa nhìn là đã muốn ăn ngay phải không nào? Cắn vào một miếng, bạn sẽ cảm nhận được vị ngọt ngọt chua chua hòa tan trong vị cay của gừng, vô cùng ngon miệng.
+        "image": https://cdn.blognauanngon.com/8/posts/5596/6.jpg
+      }
+    },
+    {
+      "id": "190920235",
+      "name": Cách làm thạch xoài thơm ngon, ngọt mát cho mùa hè
+      "description": Thạch trái cây là món quà vặt được nhiều người ở mọi lứa tuổi yêu thích bởi hương vị thơm ngon, thanh mát, dễ làm và thành phần dinh dưỡng cực tốt. Hôm nay, Thu Hà sẽ trình bày chi tiết cách làm thạch xoài thơm ngon, ngọt mát cho mùa hè, một trong những loại thạch trái cây phổ biến và được yêu thích nhất.
+      "image": https://cdn.blognauanngon.com/8/posts/5089/6.jpg
+      "ingredients": 
+      '''400g xoài chín
+        10g bột rau câu
+        100ml nước cốt dừa
+        180ml sữa tươi có đường
+        Nước lọc
+        Đường
+      '''
+      "introduction": [
+        {
+          "step": Bước 1: Sơ chế xoài
+          "description": 
+          '''
+          Xoài sau khi đã rửa sạch, bạn tiến hành cạo bỏ lớp vỏ ngoài và tách lấy phần thịt xoài. Bạn cho thịt xoài vào máy xay cùng với 180ml nước lọc và xay nhuyễn thành hỗn hợp mịn.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/5089/2.jpg
+        },
+        {
+          "step":  Bước 2: Làm phần thạch với xoài
+          "description": 
+          '''
+          Đầu tiên, bạn bắc nồi lên bếp, đổ vào 400ml nước và 5g bột rau câu, khuấy đều cho tan bột. Sau khi bột tan, bạn thêm 70g đường vào tiếp tục khuấy cho tan hết đường. Bạn đun đến khi hỗn hợp sôi lên thì cho phần xoài đã được xay nhuyễn vào, khuấy và đun 1 đến 2 phút thì tắt bếp.
+
+Bạn đặt nồi xuống, múc hỗn hợp thạch xoài cho vào khuôn đã chuẩn bị sẵn và để nguội ở nhiệt độ phòng. Nếu bạn muốn rau câu mau đặc thì có thể cho vào tủ lạnh.
+
+Để thay đổi đa dạng, bạn có thể thử đặt nghiêng một cái ly ở trong chén để đổ thạch thành dạng xéo cho lạ mắt.  
+          '''
+          "image": https://cdn.blognauanngon.com/8/posts/5089/3.jpg
+        },
+        {
+          "step": Bước 3: Làm phần thạch sữa
+          "description": 
+          '''
+          Bắc một nồi khác lên bếp, thêm 200ml nước lọc, 5g bột rau câu và 70g đường, khuấy đều và đun sôi. Khi hỗn hợp sôi, bạn thêm 180ml sữa tươi và 100ml nước cốt dừa vào tiếp tục khuấy trong 1 đến 2 phút thì tắt bếp.
+
+Sau khi đã đảm bảo bề mặt thạch xoài đã đủ đông, bạn rót nhẹ tay phần thạch sữa nước cốt dừa vào bên trên bề mặt thạch xoài.
+
+Đối với phần thạch xéo, bạn nên rót vừa rót vừa cầm ly thạch trong tay, chuyển dần dần thành vị trí đứng thẳng để thạch sữa dừa lấp đấy phần còn trống của ly thành dạng thạch chéo đẹp mắt.
+
+Sau cùng, bạn đợi cho hỗn hợp thạch nguội đến khi chạm vào không dính tay thì đặt thạch vào ngăn mát 1 đến 2 giờ đồng hồ là hoàn thành.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/5089/4.jpg
+        }
+        {
+          "step": Bước 4: Thành phẩm
+          "description": 
+          '''
+          Sau 1 đến 2 giờ trong tủ lạnh, món thạch xoài ngọt dịu và thanh mát đã sẵn sàng. Đối với thạch trong khuôn to, bạn cắt thành miếng vừa ăn nhé! Xoài vừa thơm vừa ngọt kết hợp với cốt dừa béo béo, món thạch xoài này nhất định sẽ chinh phục vị giác của bạn đấy.
+'''
+          "image": https://cdn.blognauanngon.com/8/posts/5089/5.jpg
+        }
+        
+      ],
+      "result": {
+        "description": Thạch xoài sữa chua dai nhẹ, giòn sần sật, vừa thơm béo lại còn chua ngọt nhẹ. Thơm nức mũi cùng vị chua chua, ngọt béo từ hỗn hợp sữa chua đan xen cùng những miếng xoài tươi mọng nước.
+        "image": https://cdn.blognauanngon.com/8/posts/5089/6.jpg
+      }
+    },
   ],
   
   "breakfast": [

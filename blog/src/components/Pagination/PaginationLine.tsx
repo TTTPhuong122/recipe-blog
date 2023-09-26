@@ -8,7 +8,7 @@ function PaginationLine(props: any) {
     if (pageNumbers > 4)
       return (
         <Pagination className='justify-content-center'>
-          <Pagination.First />
+          <Pagination.First href='/' />
           <Pagination.Prev />
           <Pagination.Item>{1}</Pagination.Item>
           <Pagination.Ellipsis />
@@ -18,26 +18,29 @@ function PaginationLine(props: any) {
           <Pagination.Ellipsis />
           <Pagination.Item>{pageNumbers}</Pagination.Item>
           <Pagination.Next />
-          <Pagination.Last />
+          <Pagination.Last href={`/page/${pageNumbers}`} />
         </Pagination>
       )
     else {
-      const items = [];
+      const items = []
       for (let index = 1; index <= pageNumbers; index++) {
-        items.push(<Pagination.Item key={index}>{index}</Pagination.Item>);
+        items.push(
+          <Pagination.Item href={`/page/${index}`} key={index}>
+            {index}
+          </Pagination.Item>
+        )
       }
       return (
         <Pagination className='justify-content-center'>
-          <Pagination.First />
+          <Pagination.First href='/' />
           <Pagination.Prev />
           {items}
           <Pagination.Next />
-          <Pagination.Last />
+          <Pagination.Last href={`/page/${pageNumbers}`} />
         </Pagination>
       )
     }
   } else {
-    // Trả về null nếu chỉ có 1 trang hoặc không có trang nào.
     return <></>
   }
 }

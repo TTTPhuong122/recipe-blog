@@ -10,7 +10,8 @@ function App() {
   return (
     <Home>
       <Routes>
-        <Route path='/*' element={<SectionBlog />} />
+        <Route path='/' element={<SectionBlog />} />
+        <Route path='/page/:pageNumber' element={<SectionBlog />} />
         <Route path='/feature' element={<Feature />} />
         <Route path='/feature/*' element={<SectionBlog />} />
         <Route path='/blog/*' element={<Blog />} />
